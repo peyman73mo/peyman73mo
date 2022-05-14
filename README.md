@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Peyman
-- 👀 I’m interested in Computer Science, Programming, Operation System, Security, Data Science
-- 🌱 I’m currently studying in MEng information and system security
+- 🌱 I have a master's degree in information and system security and a bachelor's degree in software engineering
+- 👀 I’m interested in Computer Science, Programming, System/Software Development, Operating Systems, Cyber Security, Data Science
 - 📫 How to reach me peyman.m1373@gmail.com
-
